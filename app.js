@@ -54,7 +54,7 @@ Str = Num.split('');
 console.log('Your Number -> ' + Num + '\n ');
 
 let numLength = String(Num).length === 3;
-console.log('Is a three-digit number? -> ' + numLength + '\n ')
+console.log('Is a three-digit number? -> ' + numLength + '\n ');
 
 let isAllSame = Str[0] === Str[1] && Str[1] === Str[2];
 
