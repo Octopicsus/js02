@@ -19,7 +19,7 @@ let num01 = num % num05;
 
 let result = num01 + ' ' + num02 + ' ' + num03 + ' ' + num04 + ' ' + num05;
 
-console.log('Your initial value -> ' + num + '\n ')
+console.log('Your initial value -> ' + num + '\n ');
 console.log('Result: ' + result);
 
 
@@ -29,7 +29,7 @@ console.log(' \n-----------  TASK - 02  ------------\n ');
 // За допомогою prompt запитати “ім'я користувача”.
 // За допомогою alert (або console.log) вивести "Hello, John! How are you?" , де “John” це те, що ввів користувач
 
-console.log('>>> // Disable comments !!! <<<')
+console.log('>>> // Disable comments !!! <<<');
 
 // let name = prompt('Your name');
 // let message = `Hello, ${name}! How are you?`;
